@@ -1,0 +1,1 @@
+export { default as Admin_panel } from './Admin_panel'
